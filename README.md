@@ -23,7 +23,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné avec une ex
 
 ## 📫 Contact
 
-- **Email** : [ton.email@example.com](mailto:ton.email@example.com)
+- **Email** : [develop.francis@gmail.com](mailto:develop.francis@gmail.com)
 - **LinkedIn** : [Ton profil LinkedIn](lien_vers_ton_profil_LinkedIn)
 - **Twitter** : [@ton_nom_utilisateur](https://twitter.com/ton_nom_utilisateur)
 
