@@ -13,7 +13,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur passionné avec une ex
 
 - **[Neerone social learning](lien_vers_le_projet)** : Une brève description du projet et des technologies utilisées.
 - **[Neerone skillsharing](lien_vers_le_projet)** : Une brève description du projet et des technologies utilisées.
-- **[Veendito]([lien_vers_le_projet](https://seller.veendito.com/))** : Une brève description du projet et des technologies utilisées.
+- **[Veendito](https://seller.veendito.com/)** : Une brève description du projet et des technologies utilisées.
 
 ## 🌟 Ce que j'aime faire
 
